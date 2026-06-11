@@ -1,6 +1,6 @@
 # EDA Project
 
-# Olympic Games Data Analysis
+## Olympic Games Data Analysis
 
 ## Project Overview
 
